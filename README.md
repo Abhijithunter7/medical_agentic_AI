@@ -111,12 +111,7 @@ crewai-medical-assistant/
 * Supports conversational queries to the AI assistant.
 * Enables hands-free interaction for accessibility.
 
-### 🌐 7. Map Integration
-
-* Displays nearby hospitals, doctors, or pharmacies.
-* Uses Google Maps API or Leaflet for geolocation mapping.
-
-### 🧩 8. Agent Status Panel
+### 🧩 7. Agent Status Panel
 
 * Displays runtime health of the AI and automation modules.
 * Debug interface for developers and admins.
